@@ -1,9 +1,9 @@
 function lobby(){
-    window.location.href = 'https://discord.gg/pvqMSBkEGg';
+    window.location.href = '';
 }
 
 function games(){
-  window.location.href = 'https://kaiollzim.github.io/minezim/'
+  window.location.href = ''
 }
 
 function colorbackground(){
